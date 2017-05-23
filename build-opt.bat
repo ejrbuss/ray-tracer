@@ -1,0 +1,1 @@
+g++ -O3 -I . -std=c++11 -o rayn .\rayn.cpp
